@@ -1,0 +1,22 @@
+.contenedor {
+  padding: 2rem;
+  display: flex;
+}
+.contenedor .cuadro {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  margin: 1rem;
+  flex-direction: row;
+}
+.contenedor .uno {
+  background-color: aqua;
+}
+.contenedor .dos {
+  background-color: black;
+}
+.contenedor .tres {
+  background-color: blueviolet;
+}
+
+/*# sourceMappingURL=style.css.map */
